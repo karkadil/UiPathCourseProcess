@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1Z3IrGZnpU-G2USNJzH8Gg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1307, 6, 22, 18" CvType="MinimizeButton" DesignTimeRectangle="1293, 1, 47, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Minimize' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Minimize' role='push button' automationid='' check:text='Minimize' /&gt;" Guid="007f1399-b494-4db9-b1b7-1189df66b640" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADMAAAAhCAYAAAB0v5O6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABMSURBVFhH7dHBCQAwDMNAr5H9B3VXyKMPEXTgAYQzM72y9BBjqIyhMobKGCpjqIyhMmYjyWo/+QyVMVTGUBlDZQyVMVTGUBlDdSimfVNIi9SdCf2bAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Untitled - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="56e33f8a20afb4fda91f3b27b09a9b62.png" xmlns="">0Q49P9XzT_0yYIZ81qFNgxA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

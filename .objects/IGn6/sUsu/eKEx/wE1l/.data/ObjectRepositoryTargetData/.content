@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zt3RE06v5UeitiMKUUPMqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="61, 196, 360, 65" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlid='13587' title='The Windows 10 Pro operating system and its user interface are p*' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='13587' /&gt;" Guid="0ff9d476-3878-4dbb-aea2-ab55c2f99246" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='About Notepad' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a8f4fe88b72395ec1ec19e9f89530f8b.png" xmlns="">0h8fD7PUMZ0CNihR1wHOdpA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

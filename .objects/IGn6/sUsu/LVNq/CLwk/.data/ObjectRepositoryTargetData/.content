@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y4_Epi1N8EifAKtbwirbOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArea="1197, 734, 89, 14" CvType="AnyWordGroup" DesignTimeRectangle="1194, 730, 118, 21" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='Status Bar' cls='msctls_statusbar32' /&gt;&lt;ctrl name='Status Bar' role='status bar' /&gt;&lt;ctrl name=' Windows (CRLF)' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Status Bar' cls='msctls_statusbar32' /&gt;&lt;ctrl name='Status Bar' role='status bar' /&gt;&lt;ctrl role='text' automationid='' /&gt;" Guid="adce776f-2c48-4a00-b382-39d5f89722db" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Untitled - Notepad' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="76f5854aed4bca9c4a91dfdd59d2fe0d.png" xmlns="">0QYz6RMV6AUO2Tk3Cc81nDA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

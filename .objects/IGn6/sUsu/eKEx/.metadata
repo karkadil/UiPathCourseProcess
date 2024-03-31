@@ -1,0 +1,12 @@
+﻿{
+  "Name": "About",
+  "Type": "Screen",
+  "Id": "eKExvrLUv0mJb71P4GuOZg",
+  "Reference": "ZsIigUNkAk6abrULt1ydYg/eKExvrLUv0mJb71P4GuOZg",
+  "ParentRef": "ZsIigUNkAk6abrULt1ydYg/sUsufZOkIEq1nSB8rg6fVw",
+  "Created": "2024-03-20T12:21:04.7501161Z",
+  "Updated": "2024-03-20T12:21:04.7501161Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

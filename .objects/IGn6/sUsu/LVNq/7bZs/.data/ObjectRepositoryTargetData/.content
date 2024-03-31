@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="twNHFbB86kSOI4O54znG3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1400, 6, 19, 19" CvType="CloseButton" DesignTimeRectangle="1386, 1, 47, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="8670d465-2685-4a45-b506-31c357f2e788" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADMAAAAhCAYAAAB0v5O6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACZSURBVFhH7ZRRCoAgEET3J+oK3v863skYSgoSqXCXEeaBqKzIPNC1lFKZfZjZMcrkSIYVybAiGVYkw4qrDC7NOZ+7J6jhzChcZRB2WbemUK/2F/dn1grtIQJC/sw9vJcICGsAVcJLBEjmK1UE8309GjWAt/RCewi5yuDSXljUcGYUYQ0gAsmwIhlWJMOKZFiRDCuSYeWSsbIDyw5F7Tf5v0AAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='Untitled - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0728995ae81842a357ebeed5467e1344.png" xmlns="">0fvzv49JxdUeoMTee9fwgtw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

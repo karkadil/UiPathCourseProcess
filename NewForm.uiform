@@ -1,0 +1,44 @@
+﻿{
+  "Metadata": {
+    "Id": "f9433868-040b-418b-86da-2964834a3f04",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm",
+    "Width": 300,
+    "Height": 300,
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Amount",
+        "tableView": true,
+        "key": "amount",
+        "type": "textfield",
+        "input": true,
+        "defaultValue": "350"
+      },
+      {
+        "label": "Phone",
+        "tableView": true,
+        "key": "phone",
+        "type": "textfield",
+        "input": true,
+        "defaultValue": "380985074699"
+      },
+      {
+        "label": "Continue",
+        "action": "event",
+        "showValidations": false,
+        "tableView": false,
+        "key": "continue",
+        "type": "button",
+        "input": true
+      }
+    ]
+  }
+}

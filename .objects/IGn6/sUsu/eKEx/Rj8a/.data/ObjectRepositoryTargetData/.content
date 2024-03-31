@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9JNWZc6pYE2DSzL67U1RHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="383, 390, 75, 22" CvTextArea="411, 395, 17, 11" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="383, 389, 75, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='OK' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='OK' check:text='OK' /&gt;" Guid="1aeff826-c9df-443a-a26d-6711ad13405f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAE8AAAAbCAYAAAA9K9JnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD4SURBVGhD7dbNEYMgEIZheqIbKsmNVmiFKnKmAzrYCInKGjJRdwbXme/wToKsl2f8MzlnQucCniDgCWJ45vFEf2JebNEZRjzmxRafgZQS2gQ8QcATBDxBwBOkFi96S8aYJevjey96stZTnGeDq/surOeOSiVehWuBUiA3A7Z45b+x5ON67sgU4hWoDsiM1v5eCFfSh9deWayC6ijUfXs5XOmeeAXOT8+67ty49OHtvW2nY/XZ6AKfG5hCvAMvjBTJ2+ZNPDiVeKXtp8ryKfJ1Wzewy7ExqcW7Q8ATBDxBwBO0Gw/9jnmxRWcY8ZhXu0DHAp4g4J0u0wsa9m1k86/CHQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='About Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80b1438b7b9593ba05a1821b7238fb48.png" xmlns="">0v12nhudWY0eklzPWmMKe9Q</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
